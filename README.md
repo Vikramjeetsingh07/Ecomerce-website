@@ -4,6 +4,3 @@
 
 
 
-Get the full source code from [here1](https://www.buymeacoffee.com/tech2etc/e/42639).
-
-Get the full source code from [here2](https://ko-fi.com/s/58e9932dcc).
